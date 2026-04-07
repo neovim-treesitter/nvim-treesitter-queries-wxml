@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/BlockLune/tree-sitter-wxml",
   "lang": "wxml",
-  "semver": false,
   "parser_version": "7b821c748dc410332f59496c0dea2632168c4e5a",
-  "location": null
+  "location": null,
+  "semver": false
 }
